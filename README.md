@@ -1,6 +1,6 @@
 # ITCS102-Codes-Repository
 
-Name : Juanane, Zaider Zedrick S. Juanane  
+Name : Juanane, Zaider Zedrick S.
 
 Student Id : 026A-14492
 
