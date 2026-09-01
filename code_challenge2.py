@@ -1,4 +1,4 @@
-money = 12008
+money = int(input("Input Money ---->"))
 
 print("You have this amount of money : ", money)
 
@@ -35,4 +35,3 @@ print("you have ", twenty,"quantity of 20")
 print("you have ", ten,"quantity of 10")
 print("you have ", five,"quantity of 5")
 print("you have ", one,"quantity of 1")
-
