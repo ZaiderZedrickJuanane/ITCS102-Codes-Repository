@@ -1,0 +1,29 @@
+#Operators
+
+#Variables
+a = 50
+b = 6
+
+#Used of operators
+sum = a+b
+diff = a-b
+product = a*b
+division = a/b
+floor = a//b
+reminder = a%b
+exponent = a**b
+
+#print result
+print("The sum of ",a ,"and",b,"is", sum)
+
+print("The diff of ",a ,"and",b, "is", diff)
+
+print("The product of ",a ,"and",b, "is", product)
+
+print("The division of ",a ,"and",b, "is", division)
+
+print("The floor of ",a ,"and",b, "is", floor)
+
+print("The reminder of ",a ,"and",b, "is", reminder)
+
+print("The exponent of ",a ,"and",b, "is", exponent)
