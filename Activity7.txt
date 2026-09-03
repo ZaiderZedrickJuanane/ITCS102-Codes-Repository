@@ -1,0 +1,37 @@
+#Assignment Operators 
+
+# =
+# +=
+# -=
+# *= 
+# /=
+
+
+#Code -----------------------------------------
+total = 0
+
+N1 = eval(input("Insert a number that will be added to the total --->"))
+total += N1
+N1 = eval(input("Insert a number that will be added to the total --->"))
+total += N1
+
+N2 = eval(input("Insert a number that will be deducted to the total --->"))
+total -= N2
+N2 = eval(input("Insert a number that will be deducted to the total --->"))
+total -= N2
+
+N3 = eval(input("Insert a number that will be multiplied to the total --->"))
+total *= N3
+N3 = eval(input("Insert a number that will be multiplied to the total --->"))
+total *= N3
+
+N4 = eval(input("Insert a number that will be divided to the total --->"))
+total /= N4
+N4 = eval(input("Insert a number that will be divided to the total --->"))
+total /= N4
+
+
+#Result ---------------------------------------------
+print("The total value is ",total)
+
+

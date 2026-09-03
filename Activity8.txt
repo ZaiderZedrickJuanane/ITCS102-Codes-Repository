@@ -1,0 +1,18 @@
+#Concatenation using assignment Operators
+
+# +=
+Text = ""
+
+s1 = input("What are your hobbies? ")
+Text += s1 + ", "
+
+s1 = input("What else? ")
+Text += s1 + ", "
+
+s1 = input("What else? ")
+Text += s1 + ", "
+
+s1 = input("And lastly? ")
+Text += s1 + "."
+print("So your hobbies are, ", Text)
+

@@ -1,0 +1,13 @@
+#Python Commands
+# type () -- tells what data type
+# eval() 
+# int() -- whole numbers
+# float() -- number with decimals
+
+
+data = "12.6"
+data2 = "4"
+
+print(type(data))
+
+print(eval(data + data2))
