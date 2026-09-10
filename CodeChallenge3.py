@@ -1,10 +1,10 @@
 Sender_Name = input("Name of Sender? --> ")
 Type_of_Item = input("Type of Item? ---> ")
-Is_Fragile = bool(input("Is Fragile? (Enter \"yes\" if yes, press Enter if no) ---> "))
+Is_Fragile = bool(eval(input("Is Fragile? (True or False) ---> ")))
 weight = float(input("Weight of the object? (in kg) ---> "))
 distance = float(input("distance (In km) ---- > "))
-is_express = bool(input("Express? (Enter \"yes\" if yes, press Enter if no) --> "))
-is_international = bool(input("International? (Enter \"yes\" if yes, press Enter if no) --> "))
+is_express = bool(eval(input("Express? (True or False) --> ")))
+is_international = bool(eval(input("International? (True or False ) --> ")))
 
 
 
