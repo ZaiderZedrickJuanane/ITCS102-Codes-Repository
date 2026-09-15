@@ -1,0 +1,32 @@
+#integer variable (Whole Numbers)
+Money = 200
+Age = 18
+Height = 162
+
+
+#float variable (Numbers with decimal)
+Weight = 50
+Temperature = 37.8
+
+
+#string variable (characters/letters)
+Name = "Zaider"
+college = "Dalubhasaan ng Lungsod ng Lucena"
+Course = "Bachelor of Science in Information Technology"
+
+#boolean variable (True or False)
+Is_Married = False
+Is_4Ps = False
+
+
+print("I have ", Money, " Pesos right now")
+print("I am ", Age, " Years Old")
+print("My height is", Height ," cm")
+print("My height is", Weight ," kg")
+print("My body temperature is ", Temperature ," Celcius")
+
+print("My name is", Name)
+print("I currently study", Course, " at ", college)
+
+print("Married : ", Is_Married)
+print("Part of 4Ps : ", Is_4Ps)
